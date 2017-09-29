@@ -20,7 +20,7 @@ break;
 
 cout <<isPalindrome << endl; 
 
-system("pause"); 
+cin.get(); 
 return 0; 
 }
 
